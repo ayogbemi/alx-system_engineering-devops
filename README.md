@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-I'm now a ALX Student, this is my first repository as a full-stack engineer
+This repository contains bash scripts of some of the basics commands to navigate linux environment
