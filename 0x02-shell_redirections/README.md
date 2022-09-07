@@ -1,7 +1,6 @@
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 
-
 Shell, I/O Redirection
 
 What do the commands head, tail, find, wc, sort, uniq, grep, tr do
@@ -19,6 +18,7 @@ Special Characters
 What are special characters
 
 Understand what do the white spaces, single quotes, double quotes, backslash, comment, pipe, command separator, tilde and how and when to use them
+
 
 
 Other Man Pages
